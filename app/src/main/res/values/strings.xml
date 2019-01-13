@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MapContacts</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+    <!--Import Alert-->
+    <string name="import_alert_empty_db">Do you want to import contacts from you phone to the app?</string>
+    <string name="import_alert_existing_db">You already have imported contacts to your app. If you want to update them than click OK and the contacts will be imported again.</string>
+
+    <!--Error Alert-->
+    <string name="error_accessing_location">There was an error retrieving your location.</string>
+    <string name="error_generic">An unexpected error has occurred.</string>
+    <string name="error_accessing_contacts">There was an error retrieving contacts from your phone.</string>
+    <string name="error_lack_of_coordinates">Can\'t find coordinates corresponding to the given address.</string>
+    <string name="error_geocoder_unavailable">Geocoder is currently unavailable.</string>
+    <string name="error_incorrect_address">Given address is incorrect.</string>
+
+    <!--Permissions-->
+    <string name="permission_contacts_denied_explanation">Permission was denied, but is needed for core functionality!</string>
+
+    <!--Messages-->
+    <string name="loading_location">Getting your location&#8230;</string>
+    <string name="loading_generic">Loading&#8230;</string>
+    <string name="loading_contacts">Getting contacts from you phone&#8230;</string>
+
+</resources>
